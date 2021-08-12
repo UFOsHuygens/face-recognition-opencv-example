@@ -1,1 +1,1 @@
-#### Um exemplo do uso do opencv para reconhecimento de rosto
+#### Exemplo do uso do opencv para reconhecimento inteligente
