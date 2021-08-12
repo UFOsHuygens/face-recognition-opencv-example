@@ -1,1 +1,1 @@
-# face-recognition-opencv-example
+#### Um exemplo do uso do opencv para reconhecimento de rosto
