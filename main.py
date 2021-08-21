@@ -3,7 +3,7 @@ import cv2
 cap = cv2.VideoCapture(0)
 
 while True:
-    cascade = cv2.CascadeClassifier("xml/palm.xml")
+    cascade = cv2.CascadeClassifier("xml/face.xml")
     success, img = cap.read()
     imgGray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     objects = cascade.detectMultiScale(imgGray, 1.1, 4)
